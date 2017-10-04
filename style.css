@@ -1,0 +1,41 @@
+h2 {
+	text-align: center;
+	color: #2d0072;
+	font-size: 3em;
+	border:solid;
+	border-color:blue;
+	padding: 25px 30px 25px 30px;
+
+}
+
+button {
+	border-color: ;
+	margin-left: 45%;
+	margin-top:75px;
+}
+#button {
+	width: 150px;
+	height: 50px;
+	background-color: #b7d2ff;
+}
+#quoteDisplay {
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 10%;
+	padding: 25px;
+	color: #2d0072;
+	background-color: #b7d2ff;
+	border-style: solid black;
+	border-radius: 20px;
+	font-size: 2em;
+}
+
+body {
+	background-color: #c2e0ff;
+}
+.twitter-share-button {
+	position: relative;
+	bottom: 200px;
+	left: 40%;
+	
+}
